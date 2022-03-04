@@ -23,3 +23,7 @@
 ## Impressora expelindo tinta
 
 **É só trocar de torner**
+
+1. Chamar o Ronaldo, pois é o mesmo que lida com a Impressora
+2. Pedir para trocar de torner, resolvendo assim o problema
+
