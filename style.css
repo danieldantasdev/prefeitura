@@ -1,0 +1,61 @@
+@import url();
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* Container */
+
+.l-container {
+    padding: 0 2rem;
+}
+
+/* Header */
+
+.l-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background: rgb(75, 72, 247);
+    color: white;
+}
+
+.l-header__logo {
+    font-size: 2rem;
+}
+
+.menu li a {
+    color: white;
+}
+
+/* Main */
+
+.l-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.l-main__card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.l-main__card-item {
+    background: rgb(85, 85, 85);
+    padding: 2rem;
+    text-align: center;
+}
+
+.l-main__card-item span {
+    font-size: 1.5rem;
+    color: white;
+}

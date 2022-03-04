@@ -27,3 +27,6 @@
 1. Chamar o Ronaldo, pois é o mesmo que lida com a Impressora
 2. Pedir para trocar de torner, resolvendo assim o problema
 
+# Terceiro Chamado - 04/03/22
+
+**Trocar o rolete da impressora**
