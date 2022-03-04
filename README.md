@@ -11,9 +11,15 @@
 3. Temp
 4. Apagar pos arquivos temporários
 
-# Segunda tentativa
+## Segunda tentativa
 
 1. Entrar no editor do registros
 2. Windows NT
 3. Procurar por profile list
 4. Procurar os arquivos temporários e apagar
+
+# Segundo Chamado - 04/03/22
+
+## Impressora expelindo tinta
+
+**É só trocar de torner**
