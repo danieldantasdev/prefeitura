@@ -2,7 +2,7 @@
 
 ## Computador com defeito de conta temporária
 
-**É um bug que começou a surgiu, a partir da segunda versão do window 8**
+**É um bug que começou a surgiu, a partir da segunda versão do window 8.2**
 
 ## Primeira tentativa
 
