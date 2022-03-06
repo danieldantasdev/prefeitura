@@ -15,7 +15,7 @@
 
 1. Entrar no editor do registros
 2. Windows NT
-3. Procurar por profile list
+3. Procurar por `profile list`
 4. Procurar os arquivos temporários e apagar
 
 # Segundo Chamado - 04/03/22
