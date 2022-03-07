@@ -5,6 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="assets/css/style.css" />
+        <!-- <link
+            rel="stylesheet"
+            href="https://unpkg.com/swiper@8/swiper-bundle.min.css"
+        /> -->
         <title>Anotações da prefeitura</title>
     </head>
     <body>
@@ -21,20 +25,92 @@
         </header>
 
         <main class="l-main l-container">
-            <div class="l-main__card">
-                ]
-                <div class="l-main__card-item">
-                    <h1>Primeiro chamado <span>04.03.22</span></h1>
-                </div>
+            <div class="swiper">
+                <div class="l-main__card swiper-wrapper">
+                    <div class="l-main__card-item swiper-slide">
+                        <div class="flip-container">
+                            <div class="flipper">
+                                <div class="front">
+                                    <img
+                                        src="https://picsum.photos/id/411/300/200"
+                                    />
+                                </div>
+                                <div class="back">
+                                    <img
+                                        src="https://picsum.photos/id/249/300/200"
+                                    />
+                                </div>
+                            </div>
+                            <h1>Primeiro chamado <span>04.03.22</span></h1>
+                        </div>
+                    </div>
 
-                <div class="l-main__card-item">
-                    <h1>Primeiro chamado <span>04.03.22</span></h1>
-                </div>
+                    <div class="l-main__card-item swiper-slide">
+                        <div class="flip-container">
+                            <div class="flipper">
+                                <div class="front">
+                                    <img
+                                        src="https://picsum.photos/id/411/300/200"
+                                    />
+                                </div>
+                                <div class="back">
+                                    <img
+                                        src="https://picsum.photos/id/249/300/200"
+                                    />
+                                </div>
+                            </div>
+                            <h1>Segundo chamado <span>04.03.22</span></h1>
+                        </div>
+                    </div>
 
-                <div class="l-main__card-item">
-                    <h1>Primeiro chamado <span>04.03.22</span></h1>
+                    <div class="l-main__card-item swiper-slide">
+                        <div class="flip-container">
+                            <div class="flipper">
+                                <div class="front">
+                                    <img
+                                        src="https://picsum.photos/id/411/300/200"
+                                    />
+                                </div>
+                                <div class="back">
+                                    <img
+                                        src="https://picsum.photos/id/249/300/200"
+                                    />
+                                </div>
+                            </div>
+                            <h1>Terceiro chamado <span>04.03.22</span></h1>
+                        </div>
+                    </div>
+
+                    <div class="l-main__card-item swiper-slide">
+                        <div class="flip-container">
+                            <div class="flipper">
+                                <div class="front">
+                                    <img
+                                        src="https://picsum.photos/id/411/300/200"
+                                    />
+                                </div>
+                                <div class="back">
+                                    <img
+                                        src="https://picsum.photos/id/249/300/200"
+                                    />
+                                </div>
+                            </div>
+                            <h1>Quarto chamado <span>04.03.22</span></h1>
+                        </div>
+                    </div>
                 </div>
+                <!-- If we need pagination -->
+                <div class="swiper-pagination"></div>
+
+                <!-- If we need navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
             </div>
         </main>
+
+        <!-- Swiper -->
+        <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+        <!-- Script -->
+        <script src="assets/js/script.js"></script>
     </body>
 </html>
