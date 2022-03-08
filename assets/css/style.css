@@ -235,6 +235,13 @@ button {
     backface-visibility: hidden;
 }
 
+.front > img,
+.back > img {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+}
+
 .back {
     transform: rotateY(180deg);
 }
