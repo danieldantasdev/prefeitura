@@ -70,7 +70,7 @@
 1.  Apertar Menu
 2.  Apertar jogo da velha
 3.  Digitar 1934 (a impressora vai ficar em inglês agora)
-4.  Apertar Menu novamente
+4.  apertar Menu novamente
 5.  Apertar Tech menu
 6.  Apertar Maintenance Counts
 7.  Colocar a senha 1934
@@ -82,3 +82,27 @@
 ## Impressora com caracteres malucos
 
 1. É só reinstalar o driver da impressora m4070
+
+# Nono chamado - 08/03/22
+
+-   Impressora desligada, apenas ligamos no botão de trás
+
+# Décimo chamado
+
+## Impressora imprimindo frente e verso sem estar habilitada para tal
+
+`Configurando o IPv4`
+
+1. Apertar no Menu
+2. Apertar em rede
+3. IPv4 (Deixar no estático, geralmente vem com DHCP ativado)
+4. Digitar o IPv4, a máscara da rede e gateway
+
+`Imprimir o relatório do IPv4`
+
+1. Apertar o Menu
+2. Relatório
+3. Rede
+4. Imprimir o IPv4
+
+
