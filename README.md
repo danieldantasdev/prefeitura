@@ -105,4 +105,10 @@
 3. Rede
 4. Imprimir o IPv4
 
+# Décimo primeiro chamado - 08/03/22
+
+## ISS lento
+
+-   Abrir algum site pesado na frente da pessoa relatando que o problema está no próprio ISS
+
 
