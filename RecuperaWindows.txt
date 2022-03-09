@@ -14,3 +14,7 @@ format fs=fat32 quick
 
 assign
 
+
+# Entrar no menu de recuperação do Windows
+
+shutdown /n / o
