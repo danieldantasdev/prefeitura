@@ -111,4 +111,15 @@
 
 -   Abrir algum site pesado na frente da pessoa relatando que o problema está no próprio ISS
 
+# Décimo segundo chamado - 09/03/22
+
+## Sem internet
+
+-   Cabo mal colocado
+
+# Décimo terceiro chamado - 09/03/22
+
+## Sem internet
+
+-   Wi-fii ruim, apenas delisgamos o rucus na tomada
 
