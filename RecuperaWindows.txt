@@ -1,0 +1,16 @@
+# Comandos de recuperação
+
+Diskpart
+
+list disk
+
+select disk 1
+
+clean
+
+create partition primary
+
+format fs=fat32 quick
+
+assign
+
