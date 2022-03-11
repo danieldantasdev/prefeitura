@@ -1,10 +1,14 @@
-# Primeiro Chamado - 04/03/22
+# ==================== Relatório dos chamados ou requerimentos do suporte de TI ====================
 
-## Computador com defeito de conta temporária
+## ========== Dia 04/03/22 ==========
+
+### ===== Primeiro Chamado =====  
+
+``Computador com defeito de conta temporária``
 
 **É um bug que começou a surgiu, a partir da segunda versão do window 8.2**
 
-### Tentativa do Ronaldo
+> ``Tentativa do Ronaldo ``
 
 1. Entrar no Explorer
 2. C:
@@ -15,26 +19,31 @@
 7. Procurar por `profile list`
 8. Procurar os arquivos temporários e apagar
 
-### Tentativa do Felipe
+> ``Tentativa do Felipe ``
 
 1. Criar um novo usuário local
 
-# Segundo Chamado - 04/03/22
+### ===== Segundo Chamado =====
 
-## Impressora expelindo tinta
+`` Impressora expelindo tinta``
 
 **É só trocar de torner**
 
 1. Chamar o Ronaldo, pois é o mesmo que lida com a Impressora
 2. Pedir para trocar de torner (peça que armazena a tinta), resolvendo assim o problema
 
-# Terceiro Chamado - 04/03/22
+### ===== Terceiro Chamado =====
 
 **Trocar o rolete da impressora, a fim de resolver o barulho que a mesma está produzindo, assim como resolver a impressão da folha que está 'entortando' a folha**
 
-# Quarto chamado - 07/03/22
+--------------------------------------------------------------------------------------------
 
-## Criando um usuário local
+
+## ========== Dia 07/03/22 ==========
+
+### ===== Primeiro chamado ===== 
+
+``Criando um usuário local``
 
 1. Entrar user adm (chamar alguém com esse user)
 2. Entrar no painel de controle
@@ -44,9 +53,10 @@
 6. Usuário e senha
 7. Animal e amigo de infância: qwe123
 
-# Quinto chamado - 07/03/22
 
-## Instalar a pasta compartilhada de pendências
+### ===== Segundo chamado =====
+
+``Instalar a pasta compartilhada de pendências``
 
 1. Digitar esse comando no explorer `//10.0.0.110`
 2. Só digitar o nome da pasta e senha
@@ -54,16 +64,16 @@
 4. Mapear usuário de rede
 5. Criar atalho na área de trabalho da mesma
 
-# Sexto chamado - 07/03/22
+### ===== Terceiro chamado =====
 
 **Problema no computador, o mesmo está apagando e voltando**
 **Quando o computador der problema, podemos trazer aqui para sala, a fim de concertar o mesmo, por meio da troca de peças e afins**
 
 -   Dei uma ideia do que poderia ter sido: "Memória ram, mal contato"
 
-# Sétimo chamado - 07/03/22
+### ===== Quarto chamado =====
 
-## Impressora com erro de cilindro
+``Impressora com erro de cilindro``
 
 **Erro de cilindro não um erro de hardware, é um bug das impressoras da samsung**
 
@@ -77,49 +87,78 @@
 8.  Dar o clear manualmente em todas opções visíveis
 9.  Reiniciar a impressora
 
-# Oitavo chamado - 07/03/22
+### ===== Quinto chamado =====
 
-## Impressora com caracteres malucos
+``Impressora com caracteres malucos``
 
 1. É só reinstalar o driver da impressora m4070
 
-# Nono chamado - 08/03/22
+--------------------------------------------------------------------------------------------
 
--   Impressora desligada, apenas ligamos no botão de trás
+## ========== Dia 08/03/22 ==========
 
-# Décimo chamado
+``Impressora desligada, apenas ligamos no botão de trás``
 
-## Impressora imprimindo frente e verso sem estar habilitada para tal
+### Primeiro chamado 
 
-`Configurando o IPv4`
+``Impressora imprimindo frente e verso sem estar habilitada para tal``
+
+> `Configurando o IPv4`
 
 1. Apertar no Menu
 2. Apertar em rede
-3. IPv4 (Deixar no estático, geralmente vem com DHCP ativado)
+3. Apertar em IPv4 (Deixar no estático, geralmente vem com DHCP ativado)
 4. Digitar o IPv4, a máscara da rede e gateway
 
-`Imprimir o relatório do IPv4`
+> `Imprimir o relatório do IPv4`
 
 1. Apertar o Menu
-2. Relatório
-3. Rede
+2. Apertar o Relatório
+3. Apertar o botão de Rede
 4. Imprimir o IPv4
 
-# Décimo primeiro chamado - 08/03/22
+### Segundo chamado
 
-## ISS lento
+``ISS e tributos lento``
 
--   Abrir algum site pesado na frente da pessoa relatando que o problema está no próprio ISS
+1. Abrir algum site pesado na frente da pessoa relatando que o problema está no próprio ISS
 
-# Décimo segundo chamado - 09/03/22
+### Terceiro chamado
 
-## Sem internet
+``Sem internet``
 
--   Cabo mal colocado
+1. Cabo mal colocado
 
-# Décimo terceiro chamado - 09/03/22
+--------------------------------------------------------------------------------------------
 
-## Sem internet
+## ========== Dia 09/03/22 ==========
 
--   Wi-fii ruim, apenas delisgamos o rucus na tomada
+### Primeiro chamado
 
+``Sem internet``
+
+1.  Wi-fii ruim, apenas delisgamos o rucus na tomada
+
+--------------------------------------------------------------------------------------------
+
+## ========== Dia 10/03/22 ==========
+
+### Primeiro chamado
+
+``Cortando cabo de rede``
+
+1. Pegar e cortar o cabo de rede com alicate de corte
+2. Separar de acordo com o tipo A [verde do branco, verde, laranja do branco, azul, azul do branco, laranja, marrom do branco, marrom](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.techtudo.globo.com%2Fperguntas%2F286252%2Fo-tipo-de-cabo-de-rede-faz-diferenca&psig=AOvVaw1lmnfsOeZXunZvzu0Ri58e&ust=1647004704307000&source=images&cd=vfe&ved=2ahUKEwiOr4Lk0Lv2AhUxMrkGHV6DD2AQr4kDegUIARDIAQ)
+3. Cortar e igualar os cabos
+4. Encaixar na peça transparente
+5. Apertar com o alicate de clinpar
+6. Testar com o testador de cabo de rede
+
+### Segundo quinto 
+
+``Fazer backup dos arquivos com o case``
+
+1. Ligar e preparar o case
+2. Encaixar o HD no case
+3. Plugar nosso HD externo para fazer o Backup
+3. Fazer o Backup, somente copiar e colar de um para o outro
