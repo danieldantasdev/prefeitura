@@ -10,11 +10,29 @@ clean
 
 create partition primary
 
-format fs=fat32 quick
+format fs=fat32 quick / format fs=ntfs quick
 
 assign
+
+exit
 
 
 # Entrar no menu de recuperação do Windows
 
 shutdown /n / o
+
+# Conversão para GPT
+
+Diskpart
+
+list disk
+
+select disk 1
+
+clean
+
+convert GPT
+
+assign
+
+exit
