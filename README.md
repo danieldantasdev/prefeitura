@@ -161,3 +161,35 @@
 2. Encaixar o HD no case
 3. Plugar nosso HD externo para fazer o Backup
 3. Fazer o Backup, somente copiar e colar de um para o outro
+
+--------------------------------------------------------------------------------------------
+
+## Dia 11/03/22 
+
+### Primeiro chamado
+
+`Criação e verificação da pasta compartilhada`
+
+> `Verificação`
+
+1. Posso ver em gerenciador de credenciais do windows e verificar se o IP da pasta está lá, caso esteja e a pasta estiver com o x vermelho
+2. Somente reiniciar/zerar a credencial e colocar novamente
+
+> `Criação da ´pasta compartilhada`
+
+1. Digitar esse comando no explorer `//10.0.0.110`
+2. Só digitar o nome da pasta e senha
+3. Clicar em pendências com botão direito
+4. Mapear usuário de rede
+5. Criar atalho na área de trabalho da mesma
+
+### Segundo chamado
+
+`Criação do Token no setor de fiscalização`
+
+1. Instalar o driver necessário
+2. Verificar no gerenciador de tokens do windows se o token está ativo
+
+
+
+
