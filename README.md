@@ -1,8 +1,8 @@
-# ==================== Relatório dos chamados ou requerimentos do suporte de TI ====================
+# Relatório dos chamados ou requerimentos do suporte de TI 
 
-## ========== Dia 04/03/22 ==========
+##  Dia 04/03/22 
 
-### ===== Primeiro Chamado =====  
+###  Primeiro Chamado   
 
 ``Computador com defeito de conta temporária``
 
@@ -23,7 +23,7 @@
 
 1. Criar um novo usuário local
 
-### ===== Segundo Chamado =====
+### Segundo Chamado 
 
 `` Impressora expelindo tinta``
 
@@ -32,16 +32,15 @@
 1. Chamar o Ronaldo, pois é o mesmo que lida com a Impressora
 2. Pedir para trocar de torner (peça que armazena a tinta), resolvendo assim o problema
 
-### ===== Terceiro Chamado =====
+### Terceiro Chamado 
 
 **Trocar o rolete da impressora, a fim de resolver o barulho que a mesma está produzindo, assim como resolver a impressão da folha que está 'entortando' a folha**
 
 --------------------------------------------------------------------------------------------
 
+##  Dia 07/03/22 
 
-## ========== Dia 07/03/22 ==========
-
-### ===== Primeiro chamado ===== 
+### Primeiro chamado  
 
 ``Criando um usuário local``
 
@@ -54,7 +53,7 @@
 7. Animal e amigo de infância: qwe123
 
 
-### ===== Segundo chamado =====
+### Segundo chamado
 
 ``Instalar a pasta compartilhada de pendências``
 
@@ -64,14 +63,14 @@
 4. Mapear usuário de rede
 5. Criar atalho na área de trabalho da mesma
 
-### ===== Terceiro chamado =====
+### Terceiro chamado
 
 **Problema no computador, o mesmo está apagando e voltando**
 **Quando o computador der problema, podemos trazer aqui para sala, a fim de concertar o mesmo, por meio da troca de peças e afins**
 
 -   Dei uma ideia do que poderia ter sido: "Memória ram, mal contato"
 
-### ===== Quarto chamado =====
+### Quarto chamado 
 
 ``Impressora com erro de cilindro``
 
@@ -87,7 +86,7 @@
 8.  Dar o clear manualmente em todas opções visíveis
 9.  Reiniciar a impressora
 
-### ===== Quinto chamado =====
+### Quinto chamado 
 
 ``Impressora com caracteres malucos``
 
@@ -95,7 +94,7 @@
 
 --------------------------------------------------------------------------------------------
 
-## ========== Dia 08/03/22 ==========
+## Dia 08/03/22 
 
 ``Impressora desligada, apenas ligamos no botão de trás``
 
@@ -131,7 +130,7 @@
 
 --------------------------------------------------------------------------------------------
 
-## ========== Dia 09/03/22 ==========
+##  Dia 09/03/22 
 
 ### Primeiro chamado
 
@@ -141,7 +140,7 @@
 
 --------------------------------------------------------------------------------------------
 
-## ========== Dia 10/03/22 ==========
+## Dia 10/03/22 
 
 ### Primeiro chamado
 
@@ -154,7 +153,7 @@
 5. Apertar com o alicate de clinpar
 6. Testar com o testador de cabo de rede
 
-### Segundo quinto 
+### Segundo chamado 
 
 ``Fazer backup dos arquivos com o case``
 
