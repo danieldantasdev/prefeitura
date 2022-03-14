@@ -195,3 +195,25 @@
 
 1. Usar o Rufus para bootar com a ISO do sistema operacional
 2. Plugar o pen-drive e apertar f12
+
+
+---
+
+## Dia 14/03/22
+
+### Primeiro chamado
+
+`Baixar ISO do windows 10`
+
+1. Baixar a ISO do prórpio site da Microsoft para ter a imagem salva na minha pasta
+2. Usar o software Rufus para só descompactar a imagem no US
+
+`Backup dos arquivos`
+
+1. Usar o case para plugar o HD foco
+2. Copiar e colar os arquivos de um para o outro
+
+`Instalação do windows 10`
+1. Plugar o Pen-drive no PC
+2. Ligar e apertar f12
+3. Só realizar a instalação
