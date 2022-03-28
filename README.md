@@ -6,7 +6,7 @@
 
 `Computador com defeito de conta temporária`
 
-**É um bug que começou a surgiu, a partir da segunda versão do window 8.2**
+**É um bug que começou a surgiu, a partir da segunda versão do window 8.2.1**
 
 > `Tentativa do Ronaldo `
 
@@ -196,7 +196,6 @@
 1. Usar o Rufus para bootar com a ISO do sistema operacional
 2. Plugar o pen-drive e apertar f12
 
-
 ---
 
 ## Dia 14/03/22
@@ -214,6 +213,7 @@
 2. Copiar e colar os arquivos de um para o outro
 
 `Instalação do windows 10`
+
 1. Plugar o Pen-drive no PC
 2. Ligar e apertar f12
 3. Só realizar a instalação
